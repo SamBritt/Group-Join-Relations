@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/bin/Debug/netcoreapp2.2/GroupJoinRelations.deps.json
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/bin/Debug/netcoreapp2.2/GroupJoinRelations.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/bin/Debug/netcoreapp2.2/GroupJoinRelations.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/bin/Debug/netcoreapp2.2/GroupJoinRelations.dll
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/bin/Debug/netcoreapp2.2/GroupJoinRelations.pdb
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.dll
+/Users/sambritt/workspace/csharp/exercises/GroupJoinRelations/obj/Debug/netcoreapp2.2/GroupJoinRelations.pdb
